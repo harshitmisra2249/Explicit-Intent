@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/harshitmisra2249/Android-Dehttps://github.com/harshitmisra2249/Android-Development-Projects-Kotlin-
+	fetch = +refs/heads/*:refs/remotes/origin/*
